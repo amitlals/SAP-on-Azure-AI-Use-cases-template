@@ -9,3 +9,7 @@ SAP on Microsoft Platform and Azure AI use cases
 
 2. Power of two Copilot - SAP J4D and GHCP. Ask me how to setup?
 ![new](https://github.com/user-attachments/assets/5a5472f9-5baa-4816-8a51-4be8431c87d4)
+
+<br> <HR>
+3. Fiori App Development with Joule (Source: SAP)
+![FIORI1](https://github.com/user-attachments/assets/6a07aab5-e98f-4313-9970-526439e7512b)
