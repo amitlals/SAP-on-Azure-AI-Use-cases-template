@@ -1,4 +1,4 @@
-# SAP-on-Azure-AI-Use-cases-template
+# SAP-on-Azure-AI-Use-cases-4-Development-template
 SAP on Microsoft Platform and Azure AI use cases
 
 1. From Screenshot to Fiori App frontend design under 5min. Ask me how?
