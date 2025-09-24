@@ -25,3 +25,12 @@ https://github.com/user-attachments/assets/eb293552-37c6-454f-bd51-23deab22b4e2
 
 https://github.com/user-attachments/assets/0b4379b1-5be6-4e9c-adcc-2a80b2a4f164
 
+
+
+## ⚠️ Technical Disclaimer
+
+The materials, images, and example artifacts in this repository are provided for demonstration and educational purposes only. They are not intended as professional, legal, or commercial advice. Before applying any templates or code in a production environment, you should validate suitability, security, licensing, and compliance with your organization's policies and with the terms of service of any third-party products used.
+
+Do not use real customer data, credentials, or any sensitive information when testing or sharing examples from this repository. SAP, Microsoft, GitHub, and other referenced product names or logos are the property of their respective owners and are used here for informational purposes only.
+
+If you need an official deployment or support plan, contact the appropriate vendor or a certified partner.
