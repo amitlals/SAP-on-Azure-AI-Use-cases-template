@@ -50,14 +50,22 @@ SAP on Microsoft Platform -AI use cases (Pick the scenario! and ask me how to se
 <br><hr>
 4. Using SAP Build to Create Low-Code Solutions - Power of Joule Copilot. Ask me how to access and setup a demo? <br><i>Please make sure to watch in full-screen button!</i>
 
-
-
 https://github.com/user-attachments/assets/eb293552-37c6-454f-bd51-23deab22b4e2
 
 <br>
 
 https://github.com/user-attachments/assets/0b4379b1-5be6-4e9c-adcc-2a80b2a4f164
 
+<br><hr>
+5. We are excited to share that the Azure SRE Agent is now available in public preview for everyone instantly – no sign up required. Agentic Devops in play....<b>Ask me how to turn on SRE Agentic engine and start integrating with SAP workloads running on Azure? </b>
+
+
+
+https://github.com/user-attachments/assets/2fc4ae78-7c28-43bc-8075-b48331b2c660
+
+
+
+<br>
 ---
 
 ## ⚙️ Usage Guide
