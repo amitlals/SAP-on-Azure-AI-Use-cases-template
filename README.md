@@ -65,7 +65,15 @@ https://github.com/user-attachments/assets/2fc4ae78-7c28-43bc-8075-b48331b2c660
 
 
 
-<br>
+<br><hr>
+6. SAP Joule is becaming powerful tool for SAP customers, here is a quick demo, <b>Ask me Anything(AmA) version of JOULE </b>
+
+
+
+https://github.com/user-attachments/assets/2c73eb84-2460-417d-8dba-fbe7902accab
+
+
+
 ---
 
 ## ⚙️ Usage Guide
