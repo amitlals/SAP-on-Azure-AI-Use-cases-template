@@ -72,6 +72,15 @@ https://github.com/user-attachments/assets/2fc4ae78-7c28-43bc-8075-b48331b2c660
 
 https://github.com/user-attachments/assets/2c73eb84-2460-417d-8dba-fbe7902accab
 
+<br><hr>
+7. Hand's on with [SAP-RPT-1-OSS](https://github.com/sap-samples/sap-rpt-1-oss/) playground, I built to test this SAP open source tablular LLM
+
+<img width="839" height="540" alt="image" src="https://github.com/user-attachments/assets/4ef2737c-ebee-4d49-a17b-e86ce9652cca" />
+
+
+
+
+
 
 
 ---
