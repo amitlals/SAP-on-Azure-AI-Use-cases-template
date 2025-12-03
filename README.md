@@ -79,6 +79,12 @@ https://github.com/user-attachments/assets/2c73eb84-2460-417d-8dba-fbe7902accab
 
 
 
+<br><hr>
+8. Hand's on with [Foundry Local](https://www.foundrylocal.ai/) playground, Run AI models locally on your device. Foundry Local provides on-device inference with complete data privacy, <b>no Azure subscription required.</b>
+
+
+
+![Foundry-Local-GIF3](https://github.com/user-attachments/assets/3a63e1a5-151b-46fd-a10e-87b8c28afc2b)
 
 
 
