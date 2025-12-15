@@ -70,12 +70,17 @@ Run AI models locally on your device with complete data privacy, no Azure subscr
 
 ## 📝 Use Case Structure
 
-Each use case folder contains:
-- `README.md` - Detailed documentation and setup instructions
-- `setup.md` - Step-by-step setup guide
-- `examples/` - Sample code and configurations
-- `assets/` - Images, diagrams, and media files
-- `troubleshooting.md` - Common issues and solutions
+Each use case folder currently contains:
+- `README.md` - Comprehensive documentation including:
+  - Overview and objectives
+  - Prerequisites
+  - Setup instructions
+  - Example workflows
+  - Best practices
+  - Troubleshooting tips
+  - Resource links
+
+**Note**: Additional files such as `examples/`, `assets/`, and code samples may be added to individual use cases over time as the repository evolves.
 
 ## 💡 Tips for Success
 

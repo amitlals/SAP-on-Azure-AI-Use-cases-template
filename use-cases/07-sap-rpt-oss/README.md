@@ -248,9 +248,9 @@ report.save('monthly_report.pdf')
 ## 📚 Additional Resources
 
 - [SAP-RPT-1-OSS GitHub Repository](https://github.com/sap-samples/sap-rpt-1-oss/)
-- [Research Paper](https://arxiv.org/abs/xxxx.xxxxx) (if available)
-- [Hugging Face Model Card](https://huggingface.co/SAP/rpt-1-oss)
-- [SAP Machine Learning Documentation](https://help.sap.com/docs/SAP_HANA_PLATFORM/4505d0bdaf4948449b7f7379d24d0f0d/c9c8f8e7f6b44f5b9a7e5c2c7e7f7f7f.html)
+- [Hugging Face Model Card](https://huggingface.co/SAP/rpt-1-oss) (check for availability)
+- [SAP Machine Learning Documentation](https://help.sap.com/docs/SAP_HANA_PLATFORM)
+- [SAP AI Core](https://help.sap.com/docs/sap-ai-core)
 
 ## 🐛 Troubleshooting
 
