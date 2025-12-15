@@ -33,6 +33,8 @@ This template repository delivers ready-to-use use cases, guides, and automation
 
 - [🚀 Getting Started](GETTING_STARTED.md) - Setup guide and prerequisites
 - [📁 Use Cases](use-cases/) - Detailed documentation for each scenario
+- [❓ FAQ](FAQ.md) - Frequently asked questions
+- [📖 Repository Structure](REPOSITORY_STRUCTURE.md) - Navigate the repository
 - [🤝 Contributing](CONTRIBUTING.md) - How to contribute to this repository
 - [🔒 Security](SECURITY.md) - Security guidelines and best practices
 - [👥 Code of Conduct](CODE_OF_CONDUCT.md) - Community guidelines
